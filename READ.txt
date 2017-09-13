@@ -4,3 +4,5 @@ howdy boy!!
 Changes in origin/master
 special feature applied git lgagit lgagit lgagit lgagit lga
 special feature applied
+logging in in feature 2
+feature changes goin on............
