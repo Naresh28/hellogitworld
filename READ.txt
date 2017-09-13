@@ -8,3 +8,4 @@ logging in in feature 2
 feature changes goin on............
 Hello,
 fixing text in read.txt
+fixed th bug
